@@ -1,0 +1,27 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore local development files
+.env
+
+# Ignore logs
+logs/
+
+# Ignore database files
+*.db
+
+# Ignore static files
+static/
+
+# Ignore compiled assets
+assets/
+
+# Ignore cache files
+__pycache__/
+
+# Ignore test files
+tests/
+
